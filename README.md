@@ -45,9 +45,3 @@ Despite advancements, the results from this project suggest that ML models hold 
 - Scikit-Learn
 - XGBoost
 - TensorFlow
-
-## License
-[MIT](LICENSE)
-
-## Contributors
-- [Your Name]
