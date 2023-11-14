@@ -1,12 +1,12 @@
 #  ML vs DL: Credit Card Fraud Detection.
 ## Project Overview
-This project aims to detect credit card fraud using advanced machine learning (ML) and deep learning (DL) techniques. It demonstrates data preprocessing, various ML classifiers, and a neural network model to analyze and predict fraudulent transactions in a credit card dataset.
+This project aims to detect credit card fraud using machine learning (ML) and deep learning (DL) techniques. It demonstrates data preprocessing, various ML classifiers, and a neural network model to analyze and predict fraudulent transactions in a public available credit card dataset.
 
 ## Data Preprocessing
 Data preprocessing includes scaling of features using `RobustScaler` and normalization of time. The dataset is also randomly downsampled to handle class imbalance.
 
 ## Exploratory Data Analysis
-Histograms and Kernel Density Estimation (KDE) plots provide insights into the distribution of fraud and normal transactions over time.
+Histograms and KDE plots provide insights into the distribution of fraud and normal transactions over time.
 
 ![fraud_normal_transactions_plots](https://github.com/SimoneParvizi/ML-DL-models-fraud-detection/assets/75120707/337f07c3-274a-48df-9a2b-daa59f6ab762)
 
