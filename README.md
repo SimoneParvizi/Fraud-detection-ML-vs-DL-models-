@@ -28,7 +28,7 @@ During training:
 
 
 ## Model Comparison
-The comparison between traditional ML models and our DL model is visually summarized in the bar chart below. It clearly indicates that while the DL model performs adequately, traditional ML models, particularly RandomForest and XGBoost, exhibit higher precision and F1 scores. This suggests that for tabular data, such as the transaction dataset we worked with, traditional ML algorithms continue to be highly competitive.
+The comparison between traditional ML models and the DL model is visually summarized in the bar chart below. It clearly indicates that while the DL model performs adequately, traditional ML models, particularly RandomForest and XGBoost, exhibit higher precision and F1 scores. This suggests that for tabular data, such as this dataset, traditional ML algorithms continue to be highly competitive.
 
 ![ML vs DL](https://github.com/SimoneParvizi/ML-DL-models-fraud-detection/assets/75120707/53e32c09-8526-45da-9ff9-c79b04334995)
 
